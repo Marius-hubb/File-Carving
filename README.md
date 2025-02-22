@@ -1,4 +1,4 @@
-<h1>File Carving using Scalpel </h1>
+<h1>Data Carving using Scalpel </h1>
 
  ## [Video Demonstration (9:16)](https://drive.google.com/file/d/1TV4_Lvy94kclhVAjgHCTh1uaBdW2j8QT/view?usp=sharing)
 
