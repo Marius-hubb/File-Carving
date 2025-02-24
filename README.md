@@ -4,12 +4,11 @@
 
 <h2>Description</h2>
 
-This video demonstrates a Backdoor exploitation to the Metasploitable2 virtual machine. 
-<br />
+This video demonstrates data carving of a Windows disc image file using Scalpel.<br />
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">Running nmap -sV to display the port version
+<p align="center">
 <br/>
 <img src="https://i.imgur.com/XG72ubw.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
